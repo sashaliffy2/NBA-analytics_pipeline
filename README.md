@@ -40,7 +40,7 @@ Basketball Reference → Python (scrape + clean) → PostgreSQL → SQL Analysis
 - [x] Rosters scraped and loaded
 - [x] Player stats scraped and loaded
 - [x] SQL analysis complete (PGAdmin 4)
-- [ ] Plotly visualizations (in progress)
+- [ ] Plotly visualizations (in progress on pause working on another project)
 - [ ] Tableau Public dashboard
 
 
